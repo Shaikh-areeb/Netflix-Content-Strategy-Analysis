@@ -1,5 +1,5 @@
 # Netflix Content Strategy 
-
+![Netflix Logo](https://github.com/Shaikh-areeb/Netflix-Content-Strategy-Analysis/blob/main/Netflix%20logo.jpg)
 ## Goal
 
 The goal is to analyze Netflix’s content strategy to understand how various factors like 
