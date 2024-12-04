@@ -7,6 +7,9 @@ content type, language, release season, and timing affect viewership patterns.
 By identifying the best-performing content and the timing of its release, 
 the aim is to uncover insights into how Netflix maximizes audience engagement throughout the year.
 
+## Insights 
+![Monthly Release Patterns and Viewership Hours (2023)]()
+.
 # Conclusion 
 
 So, the content strategy of Netflix revolves around maximizing viewership through targeted release timing and content variety. 
