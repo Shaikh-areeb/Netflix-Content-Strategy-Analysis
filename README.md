@@ -8,7 +8,7 @@ By identifying the best-performing content and the timing of its release,
 the aim is to uncover insights into how Netflix maximizes audience engagement throughout the year.
 
 ## Insights 
-![Monthly Release Patterns and Viewership Hours (2023)]()
+![Monthly Release Patterns and Viewership Hours (2023)](https://github.com/Shaikh-areeb/Netflix-Content-Strategy-Analysis/blob/main/Screenshot%202024-12-04%20194348.png)
 .
 # Conclusion 
 
