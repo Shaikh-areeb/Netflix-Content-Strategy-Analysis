@@ -9,7 +9,8 @@ the aim is to uncover insights into how Netflix maximizes audience engagement th
 
 ## Insights 
 ![Monthly Release Patterns and Viewership Hours (2023)](https://github.com/Shaikh-areeb/Netflix-Content-Strategy-Analysis/blob/main/Screenshot%202024-12-04%20194348.png)
-.
+![Weekly Release Patterns and Viewership Hours (2023)]()
+
 # Conclusion 
 
 So, the content strategy of Netflix revolves around maximizing viewership through targeted release timing and content variety. 
